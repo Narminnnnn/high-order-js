@@ -1,0 +1,14 @@
+Task 1: Şirkət adlarını sadalayın
+arr massivindəki bütün istifadəçilərin işlədiyi şirkətlərin adlarının massivini 
+qaytaran funksiya yazın.
+
+Task2: E-poçt filterleyin
+İstifadəçilərin e-poçt ünvanlarını ".biz" uzantısı ilə filterden keçirən və
+ bu e-poçt ünvanlarını massiv kimi qaytaran funksiya yazın.
+
+Task 3: Şəhərlərdəki İstifadəçilərin sayı
+Hər şəhərdə neçə istifadəçi olduğunu qaytaran funksiya yazın.
+
+Task 4: Şirkət şüarlarının ümumi uzunluğu
+Bütün istifadəçilərin şirkətlərinin (catchPhrase-in) ümumi
+ uzunluğunu qaytaran funksiya yazın.
